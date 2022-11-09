@@ -20,8 +20,3 @@ There are only 4 commands: install, dump, store, get
 `python myfs.py store <name of file to store>`
 `python myfs.py <name of file to get>`
 
-
-
-``
-
-
